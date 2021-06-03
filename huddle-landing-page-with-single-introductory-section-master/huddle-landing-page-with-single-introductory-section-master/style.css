@@ -38,5 +38,5 @@ p{
 }
 .btn:hover{
   background-color: hsl(300, 69%, 71%);
-
+color: white;
 }
