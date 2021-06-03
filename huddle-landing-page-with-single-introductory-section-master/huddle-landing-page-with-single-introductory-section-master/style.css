@@ -1,0 +1,42 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+  font-family: "Open Sans";
+  background-color: hsl(257, 40%, 49%);
+  background-image: url(./images/bg-desktop.svg);
+}
+h1{
+    font-size: 260%;
+}
+p{
+  font-size: 130%;
+
+}
+.logo{
+  width: 200px;
+  padding: 50px 50px 80px 50px;
+
+}
+.mockups{
+  padding-left: 50px;
+  float: left;
+  margin-right: 60px;
+
+}
+.content{
+
+  margin-right: 50px;
+  color: white;
+
+}
+.btn{
+  padding: 18px 40px 18px 40px;
+  border-radius: 28px;
+  border-style: none;
+  color: hsl(257, 40%, 49%);
+  font-size: 20px;
+
+}
+.btn:hover{
+  background-color: hsl(300, 69%, 71%);
+
+}
